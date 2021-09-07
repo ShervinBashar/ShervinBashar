@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShervinBashar
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP & JavaScript
 - 📫 How to reach me shervinbashar@gmail.com
 
 <!---
